@@ -16,7 +16,7 @@ In which the Ai replied with.
 
 *Access denied. "You are not authorised to view financial reports. Please contact your line manager."*
 
-***"So right off the bat, we underestimated how guarded this AI was, but it's okay, I'm sure we can crack it."***
+***So right off the bat, we underestimated how guarded this AI was, but it's okay, I'm sure we can crack it.***
 
 So I decided to go with a classic simple prompt injection,
 
