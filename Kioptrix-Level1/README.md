@@ -456,4 +456,4 @@ GCC 2.96 and libraries, the exploit worked.
 
 Kioptrix Level 1: **1**
 
-My patience: **0**. 😂
+My patience: **0**. 
