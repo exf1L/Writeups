@@ -1,7 +1,8 @@
 # Kioptrix Level 1 Writeup
 
-## Introduction
 # VulnHub
+
+## Introduction
 
 Kioptrix Level 1 is supposed to be an easy box.
 
